@@ -4,7 +4,7 @@ This project focuses on building and evaluating an Artificial Neural Network (AN
 
 The goal is to demonstrate how neural networks can be effectively applied to health-related binary classification problems, and to explore their performance in comparison to traditional approaches.
 
-# Project Highlights
+## Project Highlights
 ✅ Preprocessing of structured health data
 
 ✅ Feature scaling and data normalization
@@ -21,17 +21,17 @@ The goal is to demonstrate how neural networks can be effectively applied to hea
 
 # Technologies Used
 
-Python 
+- Python 
 
-NumPy, Pandas
+- NumPy, Pandas
 
-Matplotlib, Seaborn
+- Matplotlib, Seaborn
 
-Scikit-learn
+- Scikit-learn
 
-TensorFlow / Keras
+- TensorFlow / Keras
 
-# ✅ Results
+## ✅ Results
 
 Training and validation accuracy reached [insert value, e.g. ~78%]
 
